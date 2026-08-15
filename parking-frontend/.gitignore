@@ -40,3 +40,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Agent skills (installed via npx skills)
+/.agents
+/.claude
+skills-lock.json
